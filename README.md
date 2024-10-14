@@ -54,7 +54,7 @@ iPad Pro 12.9-inch (6th to 3rd generation)
 </div>
 
 <br>
-* . The first step is to download the IrolynIrolyn Repo Extractor. This profile will be saved in your device settings.
+* The first step is to download the IrolynIrolyn Repo Extractor. This profile will be saved in your device settings.
    
 <b> 2. Access Device Settings: </b>
    
