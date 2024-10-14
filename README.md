@@ -52,19 +52,21 @@ iPad Pro 12.9-inch (6th to 3rd generation)
     Download Irolyn Repo Extractor
   </a>
 </div>
-
 <br>
-* The first step is to download the IrolynIrolyn Repo Extractor. This profile will be saved in your device settings.
-   
+
+*  The first step is to download the IrolynIrolyn Repo Extractor. This profile will be saved in your device settings.
+
 <b> 2. Access Device Settings: </b>
    
 *  Navigate to your device’s Settings.
 *  Tap on the Profile that you just downloaded.
 *  Enter your device passcode when prompted.
-  
+  <br><br>
+
 <b> 3. Complete Installation: </b>
    
 *  Continue following the installation prompts. Once finished, you’ll find the Irolyn app on your device’s home screen.
+<br><br>
 
 <b> 4. App install </b>
 *  Copy the repo URL and paste to extract
