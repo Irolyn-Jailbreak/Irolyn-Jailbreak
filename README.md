@@ -49,7 +49,7 @@ iPad Pro 12.9-inch (6th to 3rd generation)
    
  <div align="center">
   <a href="https://install.zjailbreak.store/download/18/irolyn/pro/m/" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; font-size: 16px;">
-    Download
+    Download Irolyn Repo Extractor
   </a>
 </div>
 
