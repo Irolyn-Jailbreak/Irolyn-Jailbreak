@@ -2,14 +2,15 @@
  <h1> <p align="center"> Irolyn Repo Extractor </h1>
 </p>
 
-<div align = "center">
- <img src = "https://private-user-images.githubusercontent.com/184483090/376455940-a3495221-b77b-42d3-88e4-27a957c2c98e.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg5NjY0MTksIm5iZiI6MTcyODk2NjExOSwicGF0aCI6Ii8xODQ0ODMwOTAvMzc2NDU1OTQwLWEzNDk1MjIxLWI3N2ItNDJkMy04OGU0LTI3YTk1N2MyYzk4ZS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MTAxNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDEwMTVUMDQyMTU5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzM0NmExYTZhYmE3MWE4OTI1NTE0NmYxMDNhNjdiYTM5NjA0Y2IwZDQ2YTIxZWM3YjZlOTViYjJlMGIxZWNmZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.kLfT3Ln9L9O97daUlb3WgFzU4JfwhLXJLPEehn7XBR8" width="150"/>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/a3495221-b77b-42d3-88e4-27a957c2c98e" alt="images" width='200'>
 </div>
+
 
  
 ## Introduction:
 
-Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18, providing a simple way to access a wide variety of jailbreak apps and tweaks without actually jailbreaking your device. It works seamlessly on iOS 18, iPadOS 18, and also on the latest iOS 18.0.1 and iPadOS 18.0.1 for all supported devices.
+Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18. It provides a simple way to access a wide variety of jailbreak apps and tweaks without jailbreaking your device. It works on iOS 18.1, iPadOS 18.1, and the latest iOS 18.2 and iPadOS 18.2 for all supported devices.
 
 ## Key Features:
 <li> No Jailbreak Required: Install and enjoy a variety of jailbreak apps and tweaks without needing to jailbreak your device.</li>
@@ -18,7 +19,7 @@ Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18, 
 <li>Direct Installation: Once an app or tweak is selected, Irolyn facilitates direct installation onto the device, bypassing the need for a traditional jailbreak.</li>
 <li>User-Friendly Interface: The app offers a simple and intuitive interface, making it easy for users to navigate and install their desired software quickly.</li>
 <li>Wide Range of Apps and Tweaks: Irolyn offers an extensive collection of apps and tweaks, categorized by repo for easy browsing.</li>
-<li>iOS/iPadOS 18 Compatibility: Works perfectly on iOS 18 and iPadOS 18, including versions 18.0.1.</li>
+<li>iOS/iPadOS 18 Compatibility: Works perfectly on iOS 18 and iPadOS 18, including versions 18.2</li>
 <li>Quick & Easy Installation: The installation process is fast, straightforward, and user-friendly.</li>
 
 ## Compatibility 
