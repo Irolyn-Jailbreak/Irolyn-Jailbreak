@@ -15,7 +15,7 @@ Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18. 
 
 ## ⭐ Key Features:
 
-Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18. It provides a simple way to access a wide variety of jailbreak apps and tweaks without jailbreaking your device. It works on:
+Irolyn repo extractor provides a simple way to access a wide variety of jailbreak apps and tweaks without jailbreaking your device. 
 <br><br><br>
 🚀 No Jailbreak Required: Install and enjoy a variety of jailbreak apps and tweaks without needing to jailbreak your device.<br>
 🚀 Repo Access: Irolyn connects to various repositories that host jailbreak apps and tweaks, providing a wide selection of options for users. <br> 
@@ -23,7 +23,7 @@ Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 and iPadOS 18. 
 🚀 Direct Installation: Once an app or tweak is selected, Irolyn facilitates direct installation onto the device, bypassing the need for a traditional jailbreak.<br>
 🚀 User-Friendly Interface: The app offers a simple and intuitive interface, making it easy for users to navigate and install their desired software quickly.<br>
 🚀 Wide Range of Apps and Tweaks: Irolyn offers an extensive collection of apps and tweaks, categorized by repo for easy browsing.<br>
-🚀iOS/iPadOS 18 Compatibility: Works perfectly on iOS 18 and iPadOS 18, including versions 18.2<br>
+🚀iOS/iPadOS 18 Compatibility: Works perfectly on iOS 18 and iPadOS 18, including versions 18.2 jailbreak<br>
 🚀 Quick & Easy Installation: The installation process is fast, straightforward, and user-friendly.<br>
 
 <br><br><br>
