@@ -32,22 +32,22 @@ Irolyn is a newly introduced Jailbreak Repo extractor for iOS 18 to iOS 18.2 and
 ## ⭐ Compatibility 
 ### 🚀 iPhone Models:
 
-iPhone 16 Pro Max, 16 Pro, 16 Plus, iPhone 16
-iPhone 15 Pro Max, 15 Pro, 15 Plus, iPhone 15
-iPhone 14 Pro Max, 14 Pro, 14 Plus, iPhone 14
-iPhone SE (3rd generation)
-iPhone 13 Pro Max, 13 Pro, 13 mini, iPhone 13
-iPhone 12 Pro Max, 12 Pro, 12 mini, iPhone 12
-iPhone SE (2nd generation)
-iPhone 11 Pro Max, 11 Pro, iPhone 11
-iPhone XR, XS Max, iPhone XS
+iPhone 16 Pro Max, 16 Pro, 16 Plus, iPhone 16<br>
+iPhone 15 Pro Max, 15 Pro, 15 Plus, iPhone 15<br>
+iPhone 14 Pro Max, 14 Pro, 14 Plus, iPhone 14<br>
+iPhone SE (3rd generation)<br>
+iPhone 13 Pro Max, 13 Pro, 13 mini, iPhone 13<br>
+iPhone 12 Pro Max, 12 Pro, 12 mini, iPhone 12<br>
+iPhone SE (2nd generation)<br>
+iPhone 11 Pro Max, 11 Pro, iPhone 11<br>
+iPhone XR, XS Max, iPhone XS<br>
 <br><br>
 ### 🚀  iPad Models:
-iPad Air (13-inch, 11-inch, 5th, 4th, 3rd generation)
-iPad mini (6th and 5th generation)
-iPad (10th to 7th generation)
-iPad Pro (11-inch, 4th, 3rd, 2nd, 1st generation)
-iPad Pro (13-inch)
+iPad Air (13-inch, 11-inch, 5th, 4th, 3rd generation)<br>
+iPad mini (6th and 5th generation)<br>
+iPad (10th to 7th generation)<br>
+iPad Pro (11-inch, 4th, 3rd, 2nd, 1st generation)<br>
+iPad Pro (13-inch)<br>
 iPad Pro 12.9-inch (6th to 3rd generation)
 <br><br><br>
 ## ⭐ Irolyn Installation Guide
